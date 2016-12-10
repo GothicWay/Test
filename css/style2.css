@@ -1,0 +1,12 @@
+.block{
+  border-radius: 10px;
+  width: 50%;
+  height: 250px;
+  background: linear-gradient(to top, #368ddc, #1b69af);
+  box-shadow:0 0 15px rgba(0, 0, 0, 0.8);
+  padding: 15px;
+   transition: 3s;
+}
+.block:hover{
+  opacity: 0.0;
+}

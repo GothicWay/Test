@@ -5,11 +5,11 @@
   max-width: 1600px;
   display: table;
   width: 100%;
+  border-collapse: collapse;
 }
 .table_cell{
   display: table-cell;
   width: 24%;
-  float: left;
   border: 2px solid black;
 }
 .table_cell:hover{
@@ -18,5 +18,4 @@
 }
 .table_row{
   display: table-row;
-
 }
