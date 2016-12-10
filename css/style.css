@@ -1,0 +1,23 @@
+.body{
+
+}
+.table{
+  min-width: 600px;
+  max-width: 1600px;
+  display: table;
+  width: 100%;
+}
+.table_cell{
+  display: table-cell;
+  width: 24%;
+  float: left;
+  border: 2px solid black;
+}
+.table_cell:hover{
+  background: #E9967A;
+  border: 2px solid red;
+}
+.table_row{
+  display: table-row;
+
+}
